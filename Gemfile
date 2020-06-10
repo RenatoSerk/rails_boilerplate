@@ -5,6 +5,10 @@ ruby '2.6.6'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3'
+# Bootstrap
+ gem 'bootstrap-sass', '3.4.1'
+# Downgrade to get around sprocket error
+ gem 'sprockets-rails', '2.3.3'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets

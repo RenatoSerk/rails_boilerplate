@@ -5,6 +5,8 @@ ruby '2.6.6'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3'
+# Bcrypt
+ gem 'bcrypt', '3.1.13'
 # Bootstrap
  gem 'bootstrap-sass', '3.4.1'
 # Downgrade to get around sprocket error

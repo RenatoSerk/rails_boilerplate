@@ -2,13 +2,17 @@
   <h1>Welcome to the Sample App</h1>
 
   <h2>
-    This is the home page for the
-    <a href="https://www.railstutorial.org/">Ruby on Rails Tutorial</a>
-    sample application. Soon it'll be something!
+    This is the home page for a
+    sample application, showing off some basic web design.
+    <br><br>
+    Feel free to create an account and log in! Your email and password
+    are securely stored in a puma webserver!
   </h2>
 
   <%= link_to "Sign up now!", signup_path, class: "btn btn-lg btn-primary" %>
 </div>
-
-<%= link_to image_tag("rails.svg", alt: "Rails logo", width: "200px"),
-            "https://rubyonrails.org/" %>
+<h2>
+  <%= image_tag("Ruby_logo.svg", alt: "Ruby logo", width: "150px",) %>
+  <%= image_tag("plus.svg", alt: "Plus sign", width: "150px") %>
+  <%= image_tag("rails.svg", alt: "Rails logo", width: "380px") %>
+</h2>

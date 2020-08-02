@@ -1,1 +1,4 @@
-# empty
+bob: #Use user = user(:bob) to use inside tests
+  name: Bob Dylan
+  email: bob@example.com
+  password_digest: <%= User.digest('password') %>

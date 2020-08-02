@@ -38,5 +38,4 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+The site is also hosted on Heroku at: https://damp-shore-71445.herokuapp.com/

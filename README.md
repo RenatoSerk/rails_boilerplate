@@ -1,16 +1,11 @@
 # Ruby on Rails Tutorial sample application
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
-(6th Edition)
-by [Michael Hartl](https://www.michaelhartl.com/).
+A ruby on rails website with authentication, made using the guide from 
+Ruby on Rails Tutorial:
+Learn Web Development with Rails
+by Michael Hartl
 
-## License
-
-All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+A good starting point for web apps that require private users as well as a database to store other data.
 
 ## Getting started
 

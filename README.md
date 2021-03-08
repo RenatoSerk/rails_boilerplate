@@ -31,3 +31,4 @@ $ rails server
 ```
 
 The site is also hosted on Heroku at: https://rubyrails-starter.herokuapp.com/
+The Dyno may take a minute to start up.

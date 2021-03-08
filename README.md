@@ -1,9 +1,6 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails Boilerplate
 
-A ruby on rails website with authentication, made using the guide from 
-Ruby on Rails Tutorial:
-Learn Web Development with Rails
-by Michael Hartl
+A ruby on rails website with authentication designed to be copy pasted as a foundation for other projects
 
 A good starting point for web apps that require private users as well as a database to store other data.
 
